@@ -1,7 +1,16 @@
 # Day 12
 
 Figure out the disconnect between expected function and what's really happening
-(in this case, I missed a detail in the rules).
+(in this case, I missed a detail in the rules). The code and sample images show
+how to display the data with d3 and matplotlib and build graphs to:
+
+Show reachability when the algorithm had an error:
+
+![Reachability graphic](../images/day12/mpl_wrong_reachable.png)
+
+Show the solution once you get it right:
+
+![Shortest_path](../images/day12/d3_right_no_letters.png)
 
 ## Quickstart
 

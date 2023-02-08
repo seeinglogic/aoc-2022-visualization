@@ -12,6 +12,16 @@ help debugging and understanding what's going on under the hood.
 Shows how having a nice visualization up your sleeve can help you see your own
 mistakes
 
+Show what's reachable from the current algorithm (for troubleshooting)
+
+![Reachability graphic](./images/day12/d3_wrong_with_letters.png)
+
+Show the solution once you get it right
+
+![Shortest_path](./images/day12/d3_right_with_letters.png)
+
 ## Day 17: Tetris simulator
 
 Can we just use a good picture to see repeating intervals? Yes!
+
+![Graphing x-position and height by blocktype](./images/day17/10k.png)
